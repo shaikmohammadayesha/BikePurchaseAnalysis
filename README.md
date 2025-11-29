@@ -74,4 +74,4 @@ This repository contains the following key file:
 3.  Navigate to the **"Dashboard"** sheet.
 4.  Use the **slicers** (e.g., Marital Status, Region, Education) to filter the data and explore different segments of the customer base interactively.
 
-   
+   Bike Purchase Dashboard.png
